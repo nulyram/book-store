@@ -5,12 +5,12 @@ $second-color-light:  #6A4099; // magenta light
 $warning-color:       #FDC05D; // orange
  
 $gray-light:          #F2F2F2; 
-$gray-dark:           #231F20; 
+// $gray-dark:           #231F20; 
 
-$text-color:          $gray-dark;
+$text-color:          #000000;
 
-$font-family:         -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
-$font-size:           14px;
+$font-family:         'Montserrat', sans-serif;
+$font-size:           16px;
 $line-height:         1.4;
 
 $screen-xs:           480px;
